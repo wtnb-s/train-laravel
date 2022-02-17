@@ -4,8 +4,6 @@
 /storage/*.key
 /storage/debugbar/*
 /vendor
-/public/js
-/public/mix-manifest.json
 .env
 .env.backup
 .phpunit.result.cache
